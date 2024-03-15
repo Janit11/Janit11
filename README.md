@@ -20,17 +20,17 @@ Here are some projects I've worked on:
 ### 2. Practical Parenting App
 - Java-based mobile application developed under agile methodologies.
 - Implemented task assignment features and data management using JSON.
-- [Explore the Practical Parenting App here](#)
+- [Explore the Practical Parenting App here](https://github.com/Janit11/Practical-Parent-App)
 
 ### 3. Art Gallery Database
 - Created an ER diagram and developed a relational schema for an art gallery database.
 - Built a website interface for database interaction using HTML, CSS, and PHP.
-- [View more on the Art Gallery Database here](#)
+- [View more on the Art Gallery Database here](https://github.com/Janit11/Art-Gallery-Database)
 
 ### 4. Online Shopping Website
 - Developed a dynamic e-commerce platform using Angular and Node.js.
 - Integrated Stripe for payment processing.
-- [Check out the Online Shopping Website project](#)
+- [Check out the Online Shopping Website project](https://github.com/Janit11/OnlineStore)
 
 ## 📚 Personal Research Projects
 - **Movie App Website:** A dynamic website using HTML, CSS, JavaScript, and a REST API for movie data.
