@@ -1,6 +1,3 @@
-Creating a README file for your GitHub profile based on your resume is a great way to showcase your projects and skills. Below is a template that you can use as a starting point. Be sure to customize it with any additional information or personal flair you'd like to include!
-
----
 
 # Janit Kumar
 
@@ -18,7 +15,7 @@ Here are some projects I've worked on:
 ### 1. Fluent Hands
 - A gesture recognition app developed using Kotlin in Android Studio.
 - Integrated MediaPipe for real-time gesture detection.
-- [Find more about Fluent Hands here](#)
+- [Find more about Fluent Hands here](https://github.com/Janit11/Fluent-Hands)
 
 ### 2. Practical Parenting App
 - Java-based mobile application developed under agile methodologies.
@@ -52,7 +49,3 @@ Here are some projects I've worked on:
 ## 📫 Contact Me
 - **Email:** [janitk@sfu.ca](mailto:janitk@sfu.ca)
 - **LinkedIn:** [linkedin.com/in/janit-kumar/](https://www.linkedin.com/in/janit-kumar/)
-
----
-
-Feel free to add links to specific repositories for each project or any additional sections that you think would enhance your profile. Remember, a GitHub README is a great way to make a strong first impression, so make it count!
