@@ -1,16 +1,58 @@
-### Hi there 👋
+Creating a README file for your GitHub profile based on your resume is a great way to showcase your projects and skills. Below is a template that you can use as a starting point. Be sure to customize it with any additional information or personal flair you'd like to include!
 
-<!--
-**Janit11/Janit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Janit Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Introduction
+Welcome to my GitHub! I'm Janit, a passionate Computing Science student at Simon Fraser University, set to graduate in 2024. My journey in tech is filled with diverse projects ranging from mobile app development to data science. I love exploring new technologies and applying them to solve real-world problems.
+
+## 💻 Technical Skills
+- **Languages:** TypeScript, JavaScript, Java, Kotlin, Python, C++, C, MATLAB, HTML, CSS, SQL
+- **Frameworks/Libraries:** Angular, React, Node.js, Express, PyTorch, Scikit-learn, Pandas, Matplotlib
+- **Applications:** Jupyter Notebook, GitHub, Git, VSCode, MongoDB, Figma, Android Studio
+
+## 🌟 Highlighted Projects
+Here are some projects I've worked on:
+
+### 1. Fluent Hands
+- A gesture recognition app developed using Kotlin in Android Studio.
+- Integrated MediaPipe for real-time gesture detection.
+- [Find more about Fluent Hands here](#)
+
+### 2. Practical Parenting App
+- Java-based mobile application developed under agile methodologies.
+- Implemented task assignment features and data management using JSON.
+- [Explore the Practical Parenting App here](#)
+
+### 3. Art Gallery Database
+- Created an ER diagram and developed a relational schema for an art gallery database.
+- Built a website interface for database interaction using HTML, CSS, and PHP.
+- [View more on the Art Gallery Database here](#)
+
+### 4. Online Shopping Website
+- Developed a dynamic e-commerce platform using Angular and Node.js.
+- Integrated Stripe for payment processing.
+- [Check out the Online Shopping Website project](#)
+
+## 📚 Personal Research Projects
+- **Movie App Website:** A dynamic website using HTML, CSS, JavaScript, and a REST API for movie data.
+- **SocialFrame:** Building a social media app with real-time translation in chats, developed with React.
+
+## 👔 Professional Experience
+- **Customer Service Manager at Walmart, Burnaby, BC**
+  - Led a team of cashiers and achieved outstanding sales goals.
+  - Managed customer interactions with a high satisfaction rating.
+
+## 📖 Education
+- **Bachelor of Science in Computing Science**
+  - Simon Fraser University, Burnaby, BC
+  - Expected Graduation: 2024
+
+## 📫 Contact Me
+- **Email:** [janitk@sfu.ca](mailto:janitk@sfu.ca)
+- **LinkedIn:** [linkedin.com/in/janit-kumar/](https://www.linkedin.com/in/janit-kumar/)
+
+---
+
+Feel free to add links to specific repositories for each project or any additional sections that you think would enhance your profile. Remember, a GitHub README is a great way to make a strong first impression, so make it count!
